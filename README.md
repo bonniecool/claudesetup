@@ -1,8 +1,8 @@
 # claudesetup
-web development claude setup
+\web development claude setup
 
-Important things I use in my AI Development
+\Important things I use in my AI Development
 
-SKILLS:
+\SKILLS:
  -Skills For Real Engineers
   npx skills@latest add mattpocock/skills
