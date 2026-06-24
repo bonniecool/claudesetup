@@ -22,3 +22,7 @@ Harness coding agent: (good for harnessing agents)
 https://www.youtube.com/watch?v=C_GG5g38vLU
 
 }
+
+### LOOPS: {
+ to be added
+}
