@@ -27,3 +27,8 @@ https://www.youtube.com/watch?v=C_GG5g38vLU
 to study:
 https://www.youtube.com/watch?v=EH2MMQTaPEA
 }
+
+# A MUST PLUGIN 
+ PLUGINS: {
+  https://github.com/DietrichGebert/ponytail
+ }
