@@ -24,5 +24,6 @@ https://www.youtube.com/watch?v=C_GG5g38vLU
 }
 
 ### LOOPS: {
- to be added
+to study:
+https://www.youtube.com/watch?v=EH2MMQTaPEA
 }
